@@ -1,6 +1,11 @@
 virtualenv-pythonw-osx
 ===========================
 
+python2.7 setup.py install
+fix-osx-virtualenv  ~/.virtualenvs/test3.5/
+
+
+
 Some GUIs Pythona apps don't work right, unless ``pythonw`` is in an app bundle.
 
 This script only fixes virtualenvs based on Framework style installs (bundles)
