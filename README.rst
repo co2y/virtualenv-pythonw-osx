@@ -1,8 +1,8 @@
 virtualenv-pythonw-osx
 ===========================
 
-python2.7 setup.py install
-fix-osx-virtualenv  ~/.virtualenvs/test3.5/
+* python2.7 setup.py install
+* fix-osx-virtualenv  ~/.virtualenvs/test3.5/
 
 
 
